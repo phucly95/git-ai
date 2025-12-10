@@ -1,0 +1,23 @@
+package.json
+  db92fa0c94d26848 7-8,10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.22",
+  "base_commit_sha": "a1602ed3a5c70bec3331c90a50c55353d9bbc305",
+  "prompts": {
+    "db92fa0c94d26848": {
+      "agent_id": {
+        "tool": "amazon-q",
+        "id": "vscode-1765337663115",
+        "model": "amazon-q-unknown-model"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 2,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
