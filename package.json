@@ -1,11 +1,12 @@
 {
   "name": "git-ai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI-powered Git assistant for enhanced version control workflows",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "testing": "jest"
   },
-  "author": "",
+  "author": "felix",
   "license": "ISC"
 }
