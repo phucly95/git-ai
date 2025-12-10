@@ -1,7 +1,7 @@
 {
   "name": "git-ai",
   "version": "1.0.0",
-  "description": "",
+  "description": "AI-powered Git assistant for enhanced version control workflows",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
