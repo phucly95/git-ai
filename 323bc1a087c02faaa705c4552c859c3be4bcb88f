@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.23-kiro",
+  "base_commit_sha": "323bc1a087c02faaa705c4552c859c3be4bcb88f",
+  "prompts": {
+    "88ea6f0fb77e8432": {
+      "agent_id": {
+        "tool": "amazon-q",
+        "id": "vscode-1765356419893",
+        "model": "amazon-q-unknown-model"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    }
+  }
+}
