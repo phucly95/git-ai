@@ -1,0 +1,50 @@
+package.json
+  f9a5fefbabf67445 15-22,28-30
+  d74984bb313a43d8 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.22",
+  "base_commit_sha": "95ca0d0edb48b14d71a8c3bf8cd25b46c1b17a04",
+  "prompts": {
+    "0d41237e695db9e7": {
+      "agent_id": {
+        "tool": "amazon-q",
+        "id": "vscode-1765338087714",
+        "model": "amazon-q-unknown-model"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "d74984bb313a43d8": {
+      "agent_id": {
+        "tool": "amazon-q",
+        "id": "vscode-1765338168130",
+        "model": "amazon-q-unknown-model"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    },
+    "f9a5fefbabf67445": {
+      "agent_id": {
+        "tool": "amazon-q",
+        "id": "vscode-1765338106197",
+        "model": "amazon-q-unknown-model"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [],
+      "total_additions": 12,
+      "total_deletions": 12,
+      "accepted_lines": 11,
+      "overriden_lines": 0
+    }
+  }
+}
