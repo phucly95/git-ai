@@ -1,0 +1,23 @@
+package.json
+  cfae8df37d878b75 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.23-kiro",
+  "base_commit_sha": "bf0605cef012c2bbf0a19fe100393c6f89fc8dee",
+  "prompts": {
+    "cfae8df37d878b75": {
+      "agent_id": {
+        "tool": "amazon-q",
+        "id": "vscode-1765357488258",
+        "model": "amazon-q-unknown-model"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
