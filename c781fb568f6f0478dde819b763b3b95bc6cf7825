@@ -1,0 +1,29 @@
+README.md
+  d932a683cee6406a 1-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.23-kiro",
+  "base_commit_sha": "c781fb568f6f0478dde819b763b3b95bc6cf7825",
+  "prompts": {
+    "d932a683cee6406a": {
+      "agent_id": {
+        "tool": "aws-q",
+        "id": "aws-q-session",
+        "model": "aws-q"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [
+        {
+          "type": "user",
+          "text": "hãy thêm readme",
+          "timestamp": "2025-12-11 11:35:03.599"
+        }
+      ],
+      "total_additions": 32,
+      "total_deletions": 0,
+      "accepted_lines": 31,
+      "overriden_lines": 1
+    }
+  }
+}
