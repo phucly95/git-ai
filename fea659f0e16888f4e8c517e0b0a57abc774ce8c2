@@ -1,0 +1,92 @@
+package.json
+  d932a683cee6406a 3-4,15-22,28-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.23-kiro",
+  "base_commit_sha": "fea659f0e16888f4e8c517e0b0a57abc774ce8c2",
+  "prompts": {
+    "d932a683cee6406a": {
+      "agent_id": {
+        "tool": "aws-q",
+        "id": "aws-q-session",
+        "model": "aws-q"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [
+        {
+          "type": "user",
+          "text": "use 19.2",
+          "timestamp": "2025-12-11 11:03:26.114"
+        },
+        {
+          "type": "tool_use",
+          "name": "fsReplace",
+          "input": null,
+          "timestamp": "2025-12-11 11:03:36.024"
+        },
+        {
+          "type": "tool_use",
+          "name": "fsReplace",
+          "input": null,
+          "timestamp": "2025-12-11 11:03:36.024"
+        },
+        {
+          "type": "user",
+          "text": "use 20",
+          "timestamp": "2025-12-11 11:07:23.287"
+        },
+        {
+          "type": "tool_use",
+          "name": "fsReplace",
+          "input": null,
+          "timestamp": "2025-12-11 11:07:32.447"
+        },
+        {
+          "type": "tool_use",
+          "name": "fsReplace",
+          "input": null,
+          "timestamp": "2025-12-11 11:07:32.447"
+        },
+        {
+          "type": "user",
+          "text": "use 19.0",
+          "timestamp": "2025-12-11 11:09:49.261"
+        },
+        {
+          "type": "tool_use",
+          "name": "fsReplace",
+          "input": null,
+          "timestamp": "2025-12-11 11:09:57.123"
+        },
+        {
+          "type": "tool_use",
+          "name": "fsReplace",
+          "input": null,
+          "timestamp": "2025-12-11 11:09:57.123"
+        },
+        {
+          "type": "user",
+          "text": "use 19.2",
+          "timestamp": "2025-12-11 11:10:53.064"
+        },
+        {
+          "type": "tool_use",
+          "name": "fsReplace",
+          "input": null,
+          "timestamp": "2025-12-11 11:11:02.062"
+        },
+        {
+          "type": "tool_use",
+          "name": "fsReplace",
+          "input": null,
+          "timestamp": "2025-12-11 11:11:02.062"
+        }
+      ],
+      "total_additions": 14,
+      "total_deletions": 14,
+      "accepted_lines": 13,
+      "overriden_lines": 0
+    }
+  }
+}
