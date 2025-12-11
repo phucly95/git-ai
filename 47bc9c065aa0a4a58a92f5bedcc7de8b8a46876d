@@ -1,0 +1,46 @@
+README.md
+  d932a683cee6406a 8-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.23-kiro",
+  "base_commit_sha": "47bc9c065aa0a4a58a92f5bedcc7de8b8a46876d",
+  "prompts": {
+    "d932a683cee6406a": {
+      "agent_id": {
+        "tool": "aws-q",
+        "id": "aws-q-session",
+        "model": "aws-q"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [
+        {
+          "type": "user",
+          "text": "hãy thêm readme",
+          "timestamp": "2025-12-11 11:35:03.599"
+        },
+        {
+          "type": "user",
+          "text": "detail hơn cho Prerequisites",
+          "timestamp": "2025-12-11 11:37:51.388"
+        },
+        {
+          "type": "tool_use",
+          "name": "fsReplace",
+          "input": null,
+          "timestamp": "2025-12-11 11:37:56.218"
+        },
+        {
+          "type": "tool_use",
+          "name": "fsReplace",
+          "input": null,
+          "timestamp": "2025-12-11 11:37:56.219"
+        }
+      ],
+      "total_additions": 4,
+      "total_deletions": 2,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    }
+  }
+}
