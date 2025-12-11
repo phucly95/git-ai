@@ -8,7 +8,7 @@ Angular 20 application with AI-powered Git assistant features.
 - Node.js (18+)
 - npm (8+)
 - Angular CLI (20+)
-- Git (human edit)
+- Git.
 
 ### Installation
 ```bash
@@ -30,5 +30,5 @@ npm run build
 npm run testing
 ```
 
-## Authors (human edited)
-felix95, thangdm, giangtm (human edited)
+## Authors
+felix95, thangdm, giangtm
