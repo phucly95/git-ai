@@ -5,10 +5,10 @@ Angular 20 application with AI-powered Git assistant features.
 ## Getting Started
 
 ### Prerequisites
-- Node.js (version 18 or higher)
-- npm (version 8 or higher)
-- Angular CLI (version 20 or higher)
-- Git
+- Node.js (18+)
+- npm (8+)
+- Angular CLI (20+)
+- Git (human edit)
 
 ### Installation
 ```bash
@@ -30,5 +30,5 @@ npm run build
 npm run testing
 ```
 
-## Authors
-felix95, thangdm (human edited)
+## Authors (human edited)
+felix95, thangdm, giangtm (human edited)
