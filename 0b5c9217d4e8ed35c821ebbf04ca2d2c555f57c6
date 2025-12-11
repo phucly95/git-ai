@@ -1,0 +1,39 @@
+package.json
+  d932a683cee6406a 4,15-22,28-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.23-kiro",
+  "base_commit_sha": "0b5c9217d4e8ed35c821ebbf04ca2d2c555f57c6",
+  "prompts": {
+    "d932a683cee6406a": {
+      "agent_id": {
+        "tool": "aws-q",
+        "id": "aws-q-session",
+        "model": "aws-q"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [
+        {
+          "type": "user",
+          "text": "use 19.2",
+          "timestamp": "2025-12-11 10:56:27.927"
+        },
+        {
+          "type": "tool_use",
+          "name": "fsReplace",
+          "input": null
+        },
+        {
+          "type": "tool_use",
+          "name": "fsReplace",
+          "input": null
+        }
+      ],
+      "total_additions": 25,
+      "total_deletions": 25,
+      "accepted_lines": 12,
+      "overriden_lines": 0
+    }
+  }
+}
