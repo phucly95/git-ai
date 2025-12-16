@@ -8,6 +8,10 @@ Git AI is an Angular 20 application that provides AI-powered Git workflow assist
 This application streamlines Git operations through intelligent automation and smart suggestions.
 It helps developers manage repositories more efficiently with AI-driven insights and recommendations.
 
+## Additional Files
+
+- `sum.js` - JavaScript utility for calculating the sum of two numbers
+
 ## Getting Started.
 
 ### Prerequisites
