@@ -1,14 +1,14 @@
-# Git AI (human edit).
+# Git AI
 
 Angular 20 application with AI-powered Git assistant features.
 
 ## Description
 
-Git AI là một ứng dụng web hiện đại được xây dựng trên nền tảng Angular 20.
-Ứng dụng này cung cấp các công cụ hỗ trợ quản lý mã nguồn thông minh và tự động.
-Người dùng có thể dễ dàng theo dõi lịch sử thay đổi và quản lý các phiên bản code.
-Hệ thống tích hợp AI để đưa ra các gợi ý tối ưu cho quy trình phát triển phần mềm.
-Giao diện thân thiện và dễ sử dụng, phù hợp cho cả developer mới và có kinh nghiệm.
+Git AI is a revolutionary code management platform designed for modern software development teams.
+The application provides advanced analytics and machine learning capabilities for repository optimization.
+Developers can leverage intelligent code review suggestions and automated quality assessments.
+Integrated CI/CD pipeline management ensures seamless deployment and continuous integration workflows.
+Real-time collaboration features enable distributed teams to work efficiently across different time zones.
 
 ## Additional Files
 
