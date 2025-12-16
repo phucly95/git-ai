@@ -1,8 +1,8 @@
-# Git AI
+# Git AI (human edit)
 
 Angular 20 application with AI-powered Git assistant features.
 
-## Description
+## Description (human edit)
 
 Git AI is an Angular 20 application that provides AI-powered Git workflow assistance for developers.
 
