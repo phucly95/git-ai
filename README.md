@@ -4,11 +4,11 @@ Angular 20 application with AI-powered Git assistant features.
 
 ## Description
 
-Git AI is a revolutionary code management platform designed for modern software development teams.
-The application provides advanced analytics and machine learning capabilities for repository optimization.
-Developers can leverage intelligent code review suggestions and automated quality assessments.
-Integrated CI/CD pipeline management ensures seamless deployment and continuous integration workflows.
-Real-time collaboration features enable distributed teams to work efficiently across different time zones.
+Git AI is a simple and intuitive version control system built with Angular 20 framework.
+This tool helps beginners learn Git commands through interactive tutorials and visual guides.
+Users can practice Git workflows in a safe sandbox environment without affecting real repositories.
+The application includes step-by-step lessons covering basic to advanced Git operations.
+Perfect for students and new developers who want to master Git version control system.
 
 ## Additional Files
 
