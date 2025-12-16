@@ -5,6 +5,8 @@ Angular 20 application with AI-powered Git assistant features.
 ## Description (human edit)
 
 Git AI is an Angular 20 application that provides AI-powered Git workflow assistance for developers.
+This application streamlines Git operations through intelligent automation and smart suggestions.
+It helps developers manage repositories more efficiently with AI-driven insights and recommendations.
 
 ## Getting Started.
 
