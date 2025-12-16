@@ -1,0 +1,23 @@
+test_ai_mock.txt
+  a0dec882870db30e 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.24",
+  "base_commit_sha": "7fd027c9a83103e6fd5cb69a10c4c8911fefb9df",
+  "prompts": {
+    "a0dec882870db30e": {
+      "agent_id": {
+        "tool": "mock_ai",
+        "id": "ai-thread-1765876816415969000",
+        "model": "unknown"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 0,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
