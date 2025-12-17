@@ -24,3 +24,7 @@ const a = 5;
 const b = 3;
 // Calculate and display the result
 console.log(sum(a, b));
+
+for (const arrayElement of array) {
+    
+}
