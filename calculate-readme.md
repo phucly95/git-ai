@@ -1,18 +1,18 @@
 # Calculate.js
 
-Tiện ích JavaScript đơn giản cho các phép toán học.
+Simple JavaScript utility for mathematical operations.
 
-## Mô tả (phucnv2)
+## Description
 
-Module này cung cấp các hàm số học cơ bản cho ứng dụng JavaScript.
+This module provides basic arithmetic functions for JavaScript applications.
 
-## Cách sử dụng (phucnv2)
+## Usage
 
 ```javascript
 const result = sum(5, 3);
-console.log(result); // Kết quả: 8
+// abc
 ```
 
-## Các hàm
+## Functions
 
-- `sum(a, b)` - Cộng hai số với nhau
+- `sum(a, b)` - Adds two numbers together
