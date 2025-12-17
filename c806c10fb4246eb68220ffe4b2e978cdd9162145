@@ -1,0 +1,36 @@
+calculate.js
+  d54e588f9274ce04 1,3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.24",
+  "base_commit_sha": "c806c10fb4246eb68220ffe4b2e978cdd9162145",
+  "prompts": {
+    "a9bb4b366c25b34d": {
+      "agent_id": {
+        "tool": "aws-q",
+        "id": "intellij-1765942349701",
+        "model": "amazon-q"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 3,
+      "accepted_lines": 0,
+      "overriden_lines": 0
+    },
+    "d54e588f9274ce04": {
+      "agent_id": {
+        "tool": "aws-q",
+        "id": "intellij-1765942320164",
+        "model": "amazon-q"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 9,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    }
+  }
+}
