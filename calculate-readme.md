@@ -2,9 +2,9 @@
 
 Simple JavaScript utility for mathematical operations.
 
-## Mô tả
+## Description
 
-Module này cung cấp các hàm số học cơ bản cho ứng dụng JavaScript.
+This module provides basic arithmetic functions for JavaScript applications.
 
 ## Usage
 
