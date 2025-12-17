@@ -1,10 +1,10 @@
 # Calculate.js
 
 Simple JavaScript utility for mathematical operations.
+Module này cung cấp các hàm số học cơ bản cho ứng dụng JavaScript.
+## Mô tả
 
-## Description
 
-This module provides basic arithmetic functions for JavaScript applications.
 
 ## Usage
 
