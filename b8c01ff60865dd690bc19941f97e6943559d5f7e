@@ -1,0 +1,23 @@
+calculate.js
+  63b932a8ef61d020 2-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.24",
+  "base_commit_sha": "b8c01ff60865dd690bc19941f97e6943559d5f7e",
+  "prompts": {
+    "63b932a8ef61d020": {
+      "agent_id": {
+        "tool": "aws-q",
+        "id": "intellij-1765943203217",
+        "model": "amazon-q"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [],
+      "total_additions": 12,
+      "total_deletions": 4,
+      "accepted_lines": 12,
+      "overriden_lines": 0
+    }
+  }
+}
