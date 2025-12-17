@@ -1,0 +1,23 @@
+calculate-readme.md
+  920abddfe3973d9f 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.24",
+  "base_commit_sha": "f02fad8a73b04380edeac7ed328cef2045f9ce18",
+  "prompts": {
+    "920abddfe3973d9f": {
+      "agent_id": {
+        "tool": "aws-q",
+        "id": "intellij-1765943262091",
+        "model": "amazon-q"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [],
+      "total_additions": 18,
+      "total_deletions": 0,
+      "accepted_lines": 18,
+      "overriden_lines": 0
+    }
+  }
+}
