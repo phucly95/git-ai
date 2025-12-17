@@ -1,17 +1,17 @@
 """
-Math utilities module.
+Module tiện ích toán học. (human edit)
 """
 
 
-def add_numbers(a: float, b: float) -> float:
+def cong_hai_so(a: float, b: float) -> float:
     """
-    Add two numbers together.
+    Cộng hai số với nhau.
     
-    Args:
-        a: First number
-        b: Second number
+    Tham số:
+        a: Số thứ nhất
+        b: Số thứ hai
     
-    Returns:
-        Sum of a and b
+    Trả về:
+        Tổng của a và b
     """
-    return a + b
+    return a + b # Trả về tổng 2 số human edit
