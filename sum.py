@@ -1,61 +1,64 @@
 """
-Module tiện ích toán học. (human edit)
+Math utilities module. (human edit)
 """
 
 
-def cong_hai_so(a: float, b: float) -> float:
+def add_two_numbers(a: float, b: float) -> float:
     """
-    Cộng hai số với nhau.
+    Add two numbers together.
     
-    Tham số:
-        a: Số thứ nhất
-        b: Số thứ hai
+    Args:
+        a: First number
+        b: Second number
     
-    Trả về:
-        Tổng của a và b
+    Returns:
+        Sum of a and b
     """
-    return a + b # Trả về tổng 2 số human edit
+    return a + b  # Return sum of 2 numbers
 
 
-def nhan_hai_so(a: float, b: float) -> float:
+def multiply_two_numbers(a: float, b: float) -> float:
     """
-    Nhân hai số với nhau.
+    Multiply two numbers together.
     
-    Tham số:
-        a: Số thứ nhất
-        b: Số thứ hai
+    Args:
+        a: First number
+        b: Second number
     
-    Trả về:
-        Tích của a và b
+    Returns:
+        Product of a and b
     """
-    return a * b # Trả về tích 2 số human edit
+    return a * b  # Return product of 2 numbers
 
 
-def chia_hai_so(a: float, b: float) -> float:
+def divide_two_numbers(a: float, b: float) -> float:
     """
-    Chia số thứ nhất cho số thứ hai.
+    Divide first number by second number.
     
-    Tham số:
-        a: Số bị chia
-        b: Số chia (không được bằng 0)
+    Args:
+        a: Dividend
+        b: Divisor (cannot be zero)
     
-    Trả về:
-        Kết quả của phép chia a cho b
+    Returns:
+        Result of dividing a by b
     """
     if b == 0:
-        raise ValueError("Số chia không được bằng 0.") # Kiểm tra chia cho 0 human edit
-    return a / b # Trả về kết quả phép chia human edit
+        raise ValueError("Divisor cannot be zero.")  # Check division by zero
+    return a / b  # Return division result
 
 
-def tru_hai_so(a: float, b: float) -> float:
+def subtract_two_numbers(a: float, b: float) -> float:
     """
-    Trừ số thứ hai khỏi số thứ nhất.
+    Subtract second number from first number.
     
-    Tham số:
-        a: Số bị trừ
-        b: Số trừ
+    Args:
+        a: Minuend
+        b: Subtrahend
     
-    Trả về:
-        Hiệu của a và b
+    Returns:
+        Difference of a and b
     """
-    return a - b # Trả về hiệu 2 số human edit
+    return a - b  # Return difference of 2 numbers
+
+
+# human edit
