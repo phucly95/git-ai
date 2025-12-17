@@ -1,9 +1,10 @@
 # Calculate.js
 
 Simple JavaScript utility for mathematical operations.
-This module provides basic arithmetic functions for JavaScript applications.
+
 ## Description
 
+This module provides basic arithmetic functions for JavaScript applications.
 
 ## Usage
 
