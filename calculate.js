@@ -1,11 +1,11 @@
 /**
- * Calculate the sum of two numbers
- * @param {number} a - First number
- * @param {number} b - Second number
- * @returns {number} Sum of a and b
+ * Adds two numeric values together
+ * @param {number} a - The first operand
+ * @param {number} b - The second operand
+ * @returns {number} The result of a + b
  * @example
- * sum(5, 3); // returns 8
- * sum(-2, 7); // returns 5
+ * sum(10, 20); // returns 30
+ * sum(1.5, 2.5); // returns 4
  */
 function sum(a, b) {
     return a + b;
