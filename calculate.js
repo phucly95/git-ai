@@ -16,6 +16,8 @@ function sum(a, b) {
     return a + b; // Return the sum
 }
 
+let x = 20;
+
 // Define first number (human edit)
 const a = 5;
 // Define second number
