@@ -1,0 +1,23 @@
+div.py
+  be0ff0eee408eb06 2-5,7-8,12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.24",
+  "base_commit_sha": "06654232a37aace48a7ce6f99d01fa62decfe7d1",
+  "prompts": {
+    "be0ff0eee408eb06": {
+      "agent_id": {
+        "tool": "aws-q",
+        "id": "intellij-1766041054653",
+        "model": "amazon-q"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 1,
+      "accepted_lines": 7,
+      "overriden_lines": 0
+    }
+  }
+}
