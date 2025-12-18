@@ -1,0 +1,23 @@
+sum.py
+  712bda3c2a4a3006 8,11-12,15,17,22,25-26,29,31,36,39-40,43,46-47,52,55-56,59,61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.24",
+  "base_commit_sha": "143af3b5421b4b7be476f0f64908c335f96f9777",
+  "prompts": {
+    "712bda3c2a4a3006": {
+      "agent_id": {
+        "tool": "aws-q",
+        "id": "vscode-1766029885714",
+        "model": "aws-q"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [],
+      "total_additions": 23,
+      "total_deletions": 23,
+      "accepted_lines": 21,
+      "overriden_lines": 0
+    }
+  }
+}
