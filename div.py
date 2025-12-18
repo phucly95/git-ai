@@ -1,6 +1,6 @@
-# Divide two numbers
+# Chia hai số
 def div(a, b):
-    # Check for division by zero
+    # Kiểm tra phép chia cho số không
     if b == 0:
-        raise ValueError("Cannot divide by zero")
+        raise ValueError("Không thể chia cho số không")
     return a / b

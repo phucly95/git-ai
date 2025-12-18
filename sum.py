@@ -1,17 +1,17 @@
 """
-Mathematical utility module.
+Module tiện ích toán học.
 """
 
 
 def add_two_numbers(a: float, b: float) -> float:
     """
-    Add two numbers together.
+    Cộng hai số với nhau.
     
     Args:
-        a: First number
-        b: Second number
+        a: Số thứ nhất
+        b: Số thứ hai
     
     Returns:
-        Sum of a and b
+        Tổng của a và b
     """
-    return a + b  # Return the sum of 2 numbers
+    return a + b  # Trả về tổng của 2 số
