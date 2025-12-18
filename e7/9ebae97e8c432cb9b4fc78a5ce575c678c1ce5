@@ -1,0 +1,23 @@
+sum.py
+  48e42cdb25f4113b 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.24",
+  "base_commit_sha": "e79ebae97e8c432cb9b4fc78a5ce575c678c1ce5",
+  "prompts": {
+    "48e42cdb25f4113b": {
+      "agent_id": {
+        "tool": "aws-q",
+        "id": "intellij-1766042118025",
+        "model": "amazon-q"
+      },
+      "human_author": "Phuc Nguyen Van <phucnguyenvan@example.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 48,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
