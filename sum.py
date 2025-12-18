@@ -1,64 +1,63 @@
 """
-Module tiện ích toán học. (human edit)
+Mathematical utility module. (human edit)
 """
 
 
 def add_two_numbers(a: float, b: float) -> float:
     """
-    Cộng hai số với nhau.
+    Add two numbers together.
     
     Args:
-        a: Số thứ nhất
-        b: Số thứ hai
+        a: First number
+        b: Second number
     
     Returns:
-        Tổng của a và b
+        Sum of a and b
     """
-    return a + b  # Trả về tổng của 2 số
+    return a + b  # Return the sum of 2 numbers
 
 
 def multiply_two_numbers(a: float, b: float) -> float:
     """
-    Nhân hai số với nhau.
+    Multiply two numbers together.
     
     Args:
-        a: Số thứ nhất
-        b: Số thứ hai
+        a: First number
+        b: Second number
     
     Returns:
-        Tích của a và b
+        Product of a and b
     """
-    return a * b  # Trả về tích của 2 số
+    return a * b  # Return the product of 2 numbers
 
 
 def divide_two_numbers(a: float, b: float) -> float:
     """
-    Chia số thứ nhất cho số thứ hai.
+    Divide the first number by the second number.
     
     Args:
-        a: Số bị chia
-        b: Số chia (không thể bằng 0)
+        a: Dividend
+        b: Divisor (cannot be 0)
     
     Returns:
-        Kết quả của phép chia a cho b
+        Result of dividing a by b
     """
     if b == 0:
-        raise ValueError("Số chia không thể bằng 0.")  # Kiểm tra chia cho 0
-    return a / b  # Trả về kết quả phép chia
+        raise ValueError("Divisor cannot be zero.")  # Check for division by zero
+    return a / b  # Return the division result
 
 
 def subtract_two_numbers(a: float, b: float) -> float:
     """
-    Trừ số thứ hai khỏi số thứ nhất.
+    Subtract the second number from the first number.
     
     Args:
-        a: Số bị trừ
-        b: Số trừ
+        a: Minuend
+        b: Subtrahend
     
     Returns:
-        Hiệu của a và b
+        Difference of a and b
     """
-    return a - b  # Trả về hiệu của 2 số
+    return a - b  # Return the difference of 2 numbers (human edit)
 
-# human edit
-# human edit
+# (human edit)
