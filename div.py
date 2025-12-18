@@ -1,7 +1,7 @@
-# Function to divide two numbers
+# Hàm chia hai số
 def div(a, b):
-    # Check if divisor is zero
+    # Kiểm tra nếu số chia bằng 0
     if b == 0:
         raise ValueError("Cannot divide by zero")
-    # Return the division result
+    # Trả về kết quả phép chia
     return a / b
