@@ -1,64 +1,64 @@
 """
-Math utilities module. (human edit)
+Module tiện ích toán học. (human edit)
 """
 
 
 def add_two_numbers(a: float, b: float) -> float:
     """
-    Add two numbers together.
+    Cộng hai số với nhau.
     
     Args:
-        a: First number
-        b: Second number
+        a: Số thứ nhất
+        b: Số thứ hai
     
     Returns:
-        Sum of a and b
+        Tổng của a và b
     """
-    return a + b  # Return sum of 2 numbers
+    return a + b  # Trả về tổng của 2 số
 
 
 def multiply_two_numbers(a: float, b: float) -> float:
     """
-    Multiply two numbers together.
+    Nhân hai số với nhau.
     
     Args:
-        a: First number
-        b: Second number
+        a: Số thứ nhất
+        b: Số thứ hai
     
     Returns:
-        Product of a and b
+        Tích của a và b
     """
-    return a * b  # Return product of 2 numbers
+    return a * b  # Trả về tích của 2 số
 
 
 def divide_two_numbers(a: float, b: float) -> float:
     """
-    Divide first number by second number.
+    Chia số thứ nhất cho số thứ hai.
     
     Args:
-        a: Dividend
-        b: Divisor (cannot be zero)
+        a: Số bị chia
+        b: Số chia (không thể bằng 0)
     
     Returns:
-        Result of dividing a by b
+        Kết quả của phép chia a cho b
     """
     if b == 0:
-        raise ValueError("Divisor cannot be zero.")  # Check division by zero
-    return a / b  # Return division result
+        raise ValueError("Số chia không thể bằng 0.")  # Kiểm tra chia cho 0
+    return a / b  # Trả về kết quả phép chia
 
 
 def subtract_two_numbers(a: float, b: float) -> float:
     """
-    Subtract second number from first number.
+    Trừ số thứ hai khỏi số thứ nhất.
     
     Args:
-        a: Minuend
-        b: Subtrahend
+        a: Số bị trừ
+        b: Số trừ
     
     Returns:
-        Difference of a and b
+        Hiệu của a và b
     """
-    return a - b  # Return difference of 2 numbers
+    return a - b  # Trả về hiệu của 2 số
 
-
+# human edit
 # human edit
